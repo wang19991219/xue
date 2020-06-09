@@ -12,7 +12,7 @@ Vue.use(Vuex)
 const store = new Vuex.Store({
     state:{
       todos:[
-        {id:1,name:"吃饭",completed:false},
+        {id:1,name:"吃饭反反复复",completed:false},
         {id:2,name:"睡觉",completed:false},
         {id:3,name:"看电影",completed:false},
       ]},
